@@ -3,7 +3,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![Seaborn](https://img.shields.io/badge/Seaborn-#33105D?logo=Seaborn)
+![Seaborn](https://img.shields.io/badge/Seaborn-#violet?logo=Seaborn)
 ## 📖 Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar un conjunto de vacantes laborales relacionadas con perfiles de análisis de datos para identificar las habilidades, tecnologías y perfiles más demandados por el mercado.
